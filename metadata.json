@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard Kế Hoạch Chi Giải Ngân Dự Án",
+  "description": "Hệ thống theo dõi, lập kế hoạch và tổng hợp chi giải ngân theo từng dự án thành phần và toàn dự án.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
